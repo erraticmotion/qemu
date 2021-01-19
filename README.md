@@ -1,7 +1,7 @@
 # QEMU
 QEMU is an open source machine emulator and virtualizer. 
 
-See [QEMU](https://www.qemu.org/)
+See [QEMU](https://www.qemu.org/) and [Building ARM containers on x86](https://www.stereolabs.com/docs/docker/building-arm-container-on-x86/)
 
 See [Install](INSTALL.md) for configuration of a Ubuntu VM.
 
@@ -37,10 +37,5 @@ docker pull nvcr.io/nvidia/l4t-base:r32.2.1
 docker pull stereolabs/zed:3.0-devel-jetson-jp4.2
 ```
 
-https://www.stereolabs.com/docs/docker/building-arm-container-on-x86/
 
-https://www.stereolabs.com/docs/docker/install-guide-jetson/
-
-https://hub.docker.com/r/balenalib/jetson-nano-node
-
-node with jetson nano containers
+[k]:(https://www.stereolabs.com/docs/docker/install-guide-jetson/)
